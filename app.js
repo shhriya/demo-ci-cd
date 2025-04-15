@@ -2,7 +2,7 @@
 
 function sayHello() {
     alert("Hi Shriya! 👋 Thanks for clicking.");
-  }
+}
   
 
 // function sayHello() {
