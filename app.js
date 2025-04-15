@@ -1,7 +1,7 @@
 // app.js
 
 function sayHello() {
-    alert("Hey there! 👋 Thanks for clicking.");
+    alert("Hi Shriya! 👋 Thanks for clicking.");
   }
   
 
